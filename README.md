@@ -1,19 +1,15 @@
 ## Sobre
-Eai galera ! 👋
-Aqui vou falar um pouco sobre mim, então se estiver interessado... ReadMe 😃 .
-Eu sou o Renan Martins da Silva e sou estudante de desenvolvimento web:
+# 👋 Olá! Seja bem-vindo ao meu perfil!
 
-* HTML
-* CSS
-* JS
-* GIT
+Meu nome é **Renan Martins da Silva** e sou **estudante de Engenharia de Software**. 💻🚀
 
-Recentemente comecei a estudar sobre programação para web, maravilhado com as possibilidades que a tecnologia conseque fazer, tenho interresse em continuar evoluindo e me tornar um grande profissional, focado em criar soluções que ajudem as vidas das pessoas.  
+Atualmente, estou me dedicando aos estudos e aprimorando meus conhecimentos na área de tecnologia e desenvolvimento de software. Aqui no meu GitHub, compartilho meus projetos, exercícios, experiências e aprendizados ao longo da minha jornada.
 
-Quer dar uma olhada no que eu sei fazer ?
-Você pode fuçar a vontade nos meus repositórios e eu ficaria muito feliz por isso.
+## 🚀 Sobre mim
 
-## Para executar
-Opa! se você esta por aqui ainda e quer dar um `exec` em mim 😆 é só instalar minhas dependências com o comando `enviar um e-mail` e estarei respondendo sem nenhum `NOT FOUND` ou `ERROR` !
-
-Obrigado pela leitura! 👊
+- 🎓 Estudante de **Engenharia de Software**
+- 💻 Estudando **Desenvolvimento Web**
+- 🌱 Sempre buscando aprender e evoluir
+- 🧠 Interessado em tecnologia, programação e inovação
+- 🤝 Aberto a novos conhecimentos e oportunidades
+- 🎯 Meu objetivo é me tornar um desenvolvedor cada vez melhor
